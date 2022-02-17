@@ -1,0 +1,1050 @@
+Player 1 (DPS/Heal) queued as DPS at tick 1
+Player 2 (DPS) queued as DPS at tick 1
+Player 3 (DPS/Tank) queued as DPS at tick 1
+Player 4 (DPS/Tank) queued as DPS at tick 1
+Player 5 (DPS/Heal) queued as Healer at tick 1
+Player 6 (DPS) queued as DPS at tick 1
+Player 7 (DPS/Heal) queued as Healer at tick 1
+Player 8 (DPS) queued as DPS at tick 1
+Player 9 (DPS/Heal) queued as DPS at tick 2
+Player 10 (DPS) queued as DPS at tick 2
+Player 11 (DPS) queued as DPS at tick 2
+Player 12 (DPS) queued as DPS at tick 2
+Player 13 (DPS/Tank) queued as DPS at tick 3
+Player 14 (Tank) queued as Tank at tick 3
+Player 15 (DPS) queued as DPS at tick 3
+Player 16 (DPS/Heal) queued as DPS at tick 3
+Player 17 (Healer) queued as Healer at tick 3
+Player 18 (DPS) queued as DPS at tick 3
+Player 19 (DPS/Tank) queued as DPS at tick 3
+Instance started at 3 with 14, 5, 1, 2, 3
+Player 20 (DPS/Tank) queued as DPS at tick 4
+Player 21 (DPS/Heal) queued as Healer at tick 4
+Player 22 (DPS/Tank) queued as DPS at tick 4
+Player 23 (DPS) queued as DPS at tick 4
+Player 24 (DPS) queued as DPS at tick 4
+Player 25 (DPS) queued as DPS at tick 4
+Player 26 (DPS/Tank) queued as Tank at tick 5
+Player 27 (DPS) queued as DPS at tick 5
+Player 28 (DPS) queued as DPS at tick 5
+Player 29 (DPS) queued as DPS at tick 5
+Player 30 (DPS/Tank) queued as DPS at tick 5
+Instance started at 5 with 26, 7, 4, 6, 8
+Player 31 (Tank) queued as Tank at tick 6
+Player 32 (DPS/Tank) queued as DPS at tick 6
+Player 33 (DPS) queued as DPS at tick 6
+Instance started at 6 with 31, 17, 9, 10, 11
+Player 34 (DPS) queued as DPS at tick 7
+Player 35 (DPS/Tank) queued as DPS at tick 7
+Player 36 (DPS/Tank) queued as DPS at tick 7
+Player 37 (DPS/Tank) queued as DPS at tick 7
+Player 38 (DPS) queued as DPS at tick 7
+Player 39 (DPS/Heal) queued as Healer at tick 8
+Player 40 (Healer) queued as Healer at tick 8
+Player 41 (Tank) queued as Tank at tick 8
+Instance started at 8 with 41, 21, 12, 13, 15
+Player 42 (DPS) queued as DPS at tick 9
+Player 43 (Tank) queued as Tank at tick 9
+Player 44 (DPS/Tank) queued as Tank at tick 9
+Player 45 (DPS/Heal) queued as DPS at tick 9
+Player 46 (Healer) queued as Healer at tick 9
+Player 47 (DPS/Tank) queued as DPS at tick 9
+Player 48 (Healer) queued as Healer at tick 9
+Instance started at 9 with 43, 39, 16, 18, 19
+Player 49 (Tank) queued as Tank at tick 10
+Player 50 (DPS) queued as DPS at tick 10
+Player 51 (DPS) queued as DPS at tick 10
+Player 52 (DPS/Heal) queued as DPS at tick 10
+Player 53 (DPS/Tank) queued as DPS at tick 10
+Player 54 (DPS/Tank) queued as DPS at tick 10
+Player 55 (DPS) queued as DPS at tick 10
+Player 56 (DPS/Tank) queued as DPS at tick 10
+Instance started at 10 with 44, 40, 20, 22, 23
+Player 57 (DPS/Heal) queued as DPS at tick 11
+Instance started at 11 with 49, 46, 24, 25, 27
+Player 58 (DPS/Heal) queued as DPS at tick 12
+Player 59 (DPS/Tank) queued as DPS at tick 12
+Player 60 (Tank) queued as Tank at tick 12
+Player 61 (DPS/Heal) queued as Healer at tick 12
+Player 62 (DPS) queued as DPS at tick 12
+Player 63 (DPS/Heal) queued as DPS at tick 12
+Player 64 (DPS/Tank) queued as DPS at tick 12
+Instance started at 12 with 60, 48, 28, 29, 30
+Player 65 (DPS) queued as DPS at tick 13
+Player 66 (DPS/Tank) queued as Tank at tick 14
+Player 67 (DPS/Heal) queued as DPS at tick 14
+Player 68 (DPS/Heal) queued as DPS at tick 14
+Instance started at 14 with 66, 61, 32, 33, 34
+Player 69 (Tank) queued as Tank at tick 15
+Player 70 (DPS) queued as DPS at tick 15
+Player 71 (DPS/Tank) queued as DPS at tick 15
+Player 72 (DPS/Heal) queued as DPS at tick 15
+Player 73 (DPS) queued as DPS at tick 16
+Player 74 (Tank) queued as Tank at tick 16
+Player 75 (Healer) queued as Healer at tick 16
+Player 76 (DPS/Heal) queued as DPS at tick 16
+Player 77 (DPS) queued as DPS at tick 16
+Player 78 (DPS) queued as DPS at tick 16
+Player 79 (DPS) queued as DPS at tick 16
+Player 80 (DPS) queued as DPS at tick 16
+Instance started at 16 with 69, 75, 35, 36, 37
+Player 81 (DPS) queued as DPS at tick 17
+Player 82 (DPS) queued as DPS at tick 17
+Player 83 (DPS/Heal) queued as Healer at tick 18
+Player 84 (DPS) queued as DPS at tick 18
+Player 85 (DPS/Tank) queued as DPS at tick 18
+Instance started at 18 with 74, 83, 38, 42, 45
+Player 86 (DPS) queued as DPS at tick 19
+Player 87 (DPS/Heal) queued as DPS at tick 19
+Player 88 (DPS) queued as DPS at tick 19
+Player 89 (DPS) queued as DPS at tick 20
+Player 90 (DPS/Tank) queued as Tank at tick 20
+Player 91 (Healer) queued as Healer at tick 21
+Instance started at 21 with 90, 91, 47, 50, 51
+Player 92 (DPS) queued as DPS at tick 22
+Player 93 (DPS/Tank) queued as DPS at tick 22
+Player 94 (DPS/Tank) queued as DPS at tick 22
+Player 95 (Healer) queued as Healer at tick 22
+Player 96 (DPS) queued as DPS at tick 22
+Player 97 (DPS) queued as DPS at tick 22
+Player 98 (DPS/Tank) queued as DPS at tick 22
+Player 99 (DPS) queued as DPS at tick 23
+Player 100 (DPS) queued as DPS at tick 23
+Player 101 (DPS/Tank) queued as DPS at tick 23
+Player 102 (DPS/Tank) queued as DPS at tick 24
+Player 103 (DPS/Tank) queued as DPS at tick 24
+Player 104 (DPS) queued as DPS at tick 24
+Player 105 (DPS) queued as DPS at tick 24
+Player 106 (Healer) queued as Healer at tick 25
+Player 107 (DPS/Heal) queued as DPS at tick 25
+Player 108 (DPS/Heal) queued as DPS at tick 26
+Player 109 (Healer) queued as Healer at tick 26
+Player 110 (DPS/Heal) queued as DPS at tick 26
+Player 111 (DPS) queued as DPS at tick 26
+Player 112 (DPS/Tank) queued as DPS at tick 26
+Player 113 (DPS) queued as DPS at tick 26
+Player 114 (DPS/Heal) queued as Healer at tick 27
+Player 115 (DPS) queued as DPS at tick 28
+Player 116 (DPS/Heal) queued as DPS at tick 28
+Player 117 (Healer) queued as Healer at tick 28
+Player 118 (DPS) queued as DPS at tick 28
+Player 119 (DPS/Tank) queued as DPS at tick 28
+Player 120 (DPS) queued as DPS at tick 28
+Player 121 (DPS/Tank) queued as Tank at tick 29
+Player 122 (DPS) queued as DPS at tick 29
+Player 123 (DPS) queued as DPS at tick 29
+Player 124 (Tank) queued as Tank at tick 29
+Player 125 (DPS) queued as DPS at tick 29
+Player 126 (DPS) queued as DPS at tick 29
+Instance started at 29 with 121, 95, 52, 53, 54
+Player 127 (DPS/Tank) queued as DPS at tick 30
+Instance started at 30 with 124, 106, 55, 56, 57
+Player 128 (DPS/Heal) queued as Healer at tick 31
+Player 129 (DPS) queued as DPS at tick 31
+Player 130 (DPS) queued as DPS at tick 31
+Player 131 (DPS/Tank) queued as Tank at tick 31
+Player 132 (DPS) queued as DPS at tick 31
+Player 133 (DPS) queued as DPS at tick 31
+Instance started at 31 with 131, 109, 58, 59, 62
+Player 134 (DPS/Heal) queued as DPS at tick 32
+Player 135 (DPS) queued as DPS at tick 32
+Player 136 (Tank) queued as Tank at tick 32
+Player 137 (DPS) queued as DPS at tick 32
+Player 138 (Tank) queued as Tank at tick 32
+Player 139 (DPS/Heal) queued as DPS at tick 32
+Instance started at 32 with 136, 114, 63, 64, 65
+Player 140 (DPS) queued as DPS at tick 33
+Player 141 (DPS) queued as DPS at tick 33
+Player 142 (DPS/Tank) queued as DPS at tick 33
+Player 143 (DPS) queued as DPS at tick 33
+Player 144 (DPS/Heal) queued as DPS at tick 33
+Player 145 (Healer) queued as Healer at tick 33
+Player 146 (DPS/Heal) queued as DPS at tick 33
+Player 147 (DPS/Heal) queued as DPS at tick 33
+Instance started at 33 with 138, 117, 67, 68, 70
+Player 148 (DPS/Tank) queued as Tank at tick 34
+Instance started at 34 with 148, 128, 71, 72, 73
+Player 149 (DPS/Heal) queued as DPS at tick 35
+Player 150 (DPS) queued as DPS at tick 35
+Player 151 (DPS/Heal) queued as DPS at tick 36
+Player 152 (DPS/Tank) queued as DPS at tick 36
+Player 153 (DPS) queued as DPS at tick 36
+Player 154 (Tank) queued as Tank at tick 36
+Player 155 (Tank) queued as Tank at tick 36
+Player 156 (DPS) queued as DPS at tick 36
+Player 157 (DPS/Heal) queued as Healer at tick 36
+Player 158 (DPS) queued as DPS at tick 36
+Instance started at 36 with 154, 145, 76, 77, 78
+Player 159 (DPS) queued as DPS at tick 37
+Player 160 (Healer) queued as Healer at tick 37
+Player 161 (DPS/Tank) queued as DPS at tick 37
+Player 162 (DPS/Heal) queued as DPS at tick 37
+Instance started at 37 with 155, 157, 79, 80, 81
+Player 163 (Tank) queued as Tank at tick 38
+Player 164 (DPS/Heal) queued as DPS at tick 38
+Player 165 (Tank) queued as Tank at tick 38
+Player 166 (DPS) queued as DPS at tick 38
+Player 167 (DPS/Heal) queued as DPS at tick 38
+Player 168 (DPS/Tank) queued as Tank at tick 38
+Instance started at 38 with 163, 160, 82, 84, 85
+Player 169 (DPS) queued as DPS at tick 39
+Player 170 (DPS/Tank) queued as Tank at tick 39
+Player 171 (Healer) queued as Healer at tick 39
+Player 172 (DPS) queued as DPS at tick 39
+Instance started at 39 with 165, 171, 86, 87, 88
+Player 173 (DPS) queued as DPS at tick 40
+Player 174 (DPS) queued as DPS at tick 41
+Player 175 (DPS) queued as DPS at tick 41
+Player 176 (DPS) queued as DPS at tick 42
+Player 177 (DPS/Heal) queued as DPS at tick 42
+Player 178 (DPS) queued as DPS at tick 42
+Player 179 (DPS/Tank) queued as DPS at tick 42
+Player 180 (DPS) queued as DPS at tick 43
+Player 181 (DPS/Tank) queued as DPS at tick 43
+Player 182 (DPS/Tank) queued as DPS at tick 43
+Player 183 (DPS) queued as DPS at tick 43
+Player 184 (DPS) queued as DPS at tick 43
+Player 185 (DPS) queued as DPS at tick 43
+Player 186 (Healer) queued as Healer at tick 43
+Player 187 (DPS) queued as DPS at tick 43
+Instance started at 43 with 168, 186, 89, 92, 93
+Player 188 (DPS) queued as DPS at tick 44
+Player 189 (DPS) queued as DPS at tick 44
+Player 190 (Healer) queued as Healer at tick 44
+Instance started at 44 with 170, 190, 94, 96, 97
+Player 191 (DPS/Tank) queued as Tank at tick 45
+Player 192 (DPS/Heal) queued as DPS at tick 45
+Player 193 (DPS) queued as DPS at tick 46
+Player 194 (DPS) queued as DPS at tick 46
+Player 195 (Tank) queued as Tank at tick 46
+Player 196 (Healer) queued as Healer at tick 47
+Player 197 (DPS/Heal) queued as DPS at tick 47
+Player 198 (DPS) queued as DPS at tick 47
+Player 199 (DPS) queued as DPS at tick 47
+Player 200 (DPS) queued as DPS at tick 47
+Player 201 (DPS/Heal) queued as Healer at tick 47
+Player 202 (DPS) queued as DPS at tick 47
+Player 203 (DPS/Heal) queued as DPS at tick 47
+Instance started at 47 with 191, 196, 98, 99, 100
+Player 204 (DPS/Heal) queued as Healer at tick 48
+Player 205 (DPS/Tank) queued as DPS at tick 48
+Player 206 (DPS/Heal) queued as DPS at tick 48
+Player 207 (DPS/Heal) queued as DPS at tick 48
+Player 208 (Healer) queued as Healer at tick 48
+Player 209 (DPS) queued as DPS at tick 48
+Instance started at 48 with 195, 201, 101, 102, 103
+Player 210 (DPS) queued as DPS at tick 49
+Player 211 (DPS) queued as DPS at tick 50
+Player 212 (DPS/Tank) queued as Tank at tick 51
+Player 213 (DPS/Heal) queued as DPS at tick 51
+Player 214 (DPS/Tank) queued as DPS at tick 51
+Player 215 (DPS) queued as DPS at tick 51
+Player 216 (Tank) queued as Tank at tick 51
+Player 217 (DPS) queued as DPS at tick 51
+Player 218 (DPS/Tank) queued as Tank at tick 51
+Player 219 (DPS) queued as DPS at tick 51
+Instance started at 51 with 212, 204, 104, 105, 107
+Player 220 (DPS/Heal) queued as DPS at tick 52
+Player 221 (Healer) queued as Healer at tick 52
+Player 222 (DPS) queued as DPS at tick 52
+Instance started at 52 with 216, 208, 108, 110, 111
+Player 223 (DPS/Tank) queued as DPS at tick 53
+Player 224 (DPS/Heal) queued as DPS at tick 53
+Instance started at 53 with 218, 221, 112, 113, 115
+Player 225 (DPS/Heal) queued as DPS at tick 54
+Player 226 (DPS/Tank) queued as DPS at tick 54
+Player 227 (DPS) queued as DPS at tick 54
+Player 228 (DPS) queued as DPS at tick 54
+Player 229 (DPS/Heal) queued as DPS at tick 54
+Player 230 (DPS) queued as DPS at tick 54
+Player 231 (DPS/Tank) queued as DPS at tick 54
+Player 232 (DPS) queued as DPS at tick 55
+Player 233 (DPS/Tank) queued as Tank at tick 55
+Player 234 (Tank) queued as Tank at tick 56
+Player 235 (DPS) queued as DPS at tick 56
+Player 236 (DPS) queued as DPS at tick 56
+Player 237 (Healer) queued as Healer at tick 56
+Instance started at 56 with 233, 237, 116, 118, 119
+Player 238 (DPS) queued as DPS at tick 57
+Player 239 (DPS) queued as DPS at tick 57
+Player 240 (Healer) queued as Healer at tick 57
+Player 241 (Healer) queued as Healer at tick 57
+Player 242 (DPS) queued as DPS at tick 57
+Player 243 (DPS) queued as DPS at tick 57
+Instance started at 57 with 234, 240, 120, 122, 123
+Player 244 (Tank) queued as Tank at tick 58
+Instance started at 58 with 244, 241, 125, 126, 127
+Player 245 (DPS) queued as DPS at tick 59
+Player 246 (DPS/Heal) queued as DPS at tick 59
+Player 247 (DPS/Tank) queued as DPS at tick 59
+Player 248 (DPS/Heal) queued as DPS at tick 59
+Player 249 (Tank) queued as Tank at tick 59
+Player 250 (DPS/Tank) queued as DPS at tick 59
+Player 251 (Tank) queued as Tank at tick 60
+Player 252 (DPS/Tank) queued as DPS at tick 60
+Player 253 (DPS) queued as DPS at tick 60
+Player 254 (DPS/Tank) queued as DPS at tick 60
+Player 255 (DPS/Tank) queued as DPS at tick 60
+Player 256 (Tank) queued as Tank at tick 60
+Player 257 (DPS/Heal) queued as DPS at tick 60
+Player 258 (DPS/Tank) queued as Tank at tick 61
+Player 259 (DPS/Tank) queued as Tank at tick 61
+Player 260 (DPS) queued as DPS at tick 61
+Player 261 (Healer) queued as Healer at tick 62
+Player 262 (DPS) queued as DPS at tick 62
+Player 263 (DPS/Heal) queued as DPS at tick 62
+Player 264 (Tank) queued as Tank at tick 62
+Instance started at 62 with 249, 261, 129, 130, 132
+Player 265 (DPS) queued as DPS at tick 63
+Player 266 (DPS) queued as DPS at tick 63
+Player 267 (DPS/Heal) queued as DPS at tick 63
+Player 268 (DPS) queued as DPS at tick 63
+Player 269 (DPS/Heal) queued as DPS at tick 63
+Player 270 (DPS) queued as DPS at tick 63
+Player 271 (DPS) queued as DPS at tick 63
+Player 272 (DPS) queued as DPS at tick 64
+Player 273 (DPS/Heal) queued as DPS at tick 64
+Player 274 (DPS/Heal) queued as DPS at tick 64
+Player 275 (DPS/Heal) queued as Healer at tick 64
+Player 276 (DPS) queued as DPS at tick 64
+Player 277 (DPS/Heal) queued as DPS at tick 64
+Player 278 (DPS) queued as DPS at tick 64
+Player 279 (DPS) queued as DPS at tick 64
+Instance started at 64 with 251, 275, 133, 134, 135
+Player 280 (DPS/Heal) queued as DPS at tick 65
+Player 281 (DPS/Heal) queued as DPS at tick 65
+Player 282 (DPS) queued as DPS at tick 66
+Player 283 (DPS/Heal) queued as DPS at tick 66
+Player 284 (DPS/Tank) queued as DPS at tick 66
+Player 285 (DPS) queued as DPS at tick 66
+Player 286 (Healer) queued as Healer at tick 67
+Player 287 (Tank) queued as Tank at tick 67
+Player 288 (DPS/Tank) queued as DPS at tick 67
+Player 289 (DPS/Heal) queued as DPS at tick 67
+Player 290 (DPS/Heal) queued as DPS at tick 67
+Player 291 (DPS/Heal) queued as DPS at tick 67
+Player 292 (Tank) queued as Tank at tick 67
+Player 293 (Healer) queued as Healer at tick 67
+Instance started at 67 with 256, 286, 137, 139, 140
+Player 294 (DPS/Tank) queued as Tank at tick 68
+Player 295 (DPS/Heal) queued as DPS at tick 68
+Player 296 (DPS) queued as DPS at tick 68
+Player 297 (DPS) queued as DPS at tick 68
+Player 298 (DPS) queued as DPS at tick 68
+Player 299 (DPS/Tank) queued as DPS at tick 68
+Player 300 (Tank) queued as Tank at tick 68
+Instance started at 68 with 258, 293, 141, 142, 143
+Player 301 (Healer) queued as Healer at tick 69
+Instance started at 69 with 259, 301, 144, 146, 147
+Player 302 (DPS) queued as DPS at tick 70
+Player 303 (DPS/Tank) queued as DPS at tick 70
+Player 304 (Tank) queued as Tank at tick 70
+Player 305 (DPS) queued as DPS at tick 70
+Player 306 (DPS/Tank) queued as DPS at tick 70
+Player 307 (DPS) queued as DPS at tick 71
+Player 308 (Healer) queued as Healer at tick 71
+Player 309 (DPS) queued as DPS at tick 71
+Player 310 (DPS) queued as DPS at tick 71
+Player 311 (DPS) queued as DPS at tick 71
+Player 312 (DPS) queued as DPS at tick 71
+Player 313 (DPS) queued as DPS at tick 71
+Player 314 (DPS) queued as DPS at tick 71
+Instance started at 71 with 264, 308, 149, 150, 151
+Player 315 (DPS) queued as DPS at tick 72
+Player 316 (Healer) queued as Healer at tick 72
+Player 317 (DPS/Heal) queued as DPS at tick 72
+Instance started at 72 with 287, 316, 152, 153, 156
+Player 318 (DPS) queued as DPS at tick 73
+Player 319 (DPS/Tank) queued as DPS at tick 73
+Player 320 (DPS) queued as DPS at tick 73
+Player 321 (DPS) queued as DPS at tick 73
+Player 322 (DPS) queued as DPS at tick 73
+Player 323 (DPS) queued as DPS at tick 73
+Player 324 (DPS) queued as DPS at tick 73
+Player 325 (Healer) queued as Healer at tick 74
+Player 326 (DPS/Heal) queued as DPS at tick 74
+Player 327 (Tank) queued as Tank at tick 74
+Instance started at 74 with 292, 325, 158, 159, 161
+Player 328 (DPS/Tank) queued as Tank at tick 75
+Player 329 (DPS) queued as DPS at tick 75
+Player 330 (DPS) queued as DPS at tick 75
+Player 331 (DPS) queued as DPS at tick 76
+Player 332 (DPS) queued as DPS at tick 76
+Player 333 (DPS) queued as DPS at tick 76
+Player 334 (DPS/Heal) queued as DPS at tick 76
+Player 335 (DPS/Tank) queued as DPS at tick 76
+Player 336 (DPS/Heal) queued as DPS at tick 76
+Player 337 (Tank) queued as Tank at tick 76
+Player 338 (DPS) queued as DPS at tick 76
+Player 339 (DPS/Heal) queued as DPS at tick 77
+Player 340 (Tank) queued as Tank at tick 78
+Player 341 (DPS) queued as DPS at tick 78
+Player 342 (DPS/Tank) queued as DPS at tick 79
+Player 343 (DPS) queued as DPS at tick 79
+Player 344 (DPS/Tank) queued as DPS at tick 80
+Player 345 (DPS) queued as DPS at tick 80
+Player 346 (DPS) queued as DPS at tick 81
+Player 347 (Tank) queued as Tank at tick 82
+Player 348 (DPS/Tank) queued as DPS at tick 82
+Player 349 (DPS) queued as DPS at tick 83
+Player 350 (DPS) queued as DPS at tick 83
+Player 351 (Tank) queued as Tank at tick 83
+Player 352 (Healer) queued as Healer at tick 83
+Player 353 (Healer) queued as Healer at tick 83
+Player 354 (DPS/Tank) queued as DPS at tick 83
+Player 355 (DPS/Tank) queued as DPS at tick 83
+Player 356 (Tank) queued as Tank at tick 83
+Instance started at 83 with 294, 352, 162, 164, 166
+Player 357 (DPS/Heal) queued as DPS at tick 84
+Player 358 (DPS/Tank) queued as DPS at tick 84
+Player 359 (Tank) queued as Tank at tick 84
+Player 360 (DPS/Tank) queued as DPS at tick 84
+Player 361 (DPS) queued as DPS at tick 84
+Player 362 (Healer) queued as Healer at tick 84
+Instance started at 84 with 300, 353, 167, 169, 172
+Player 363 (DPS/Tank) queued as Tank at tick 85
+Player 364 (DPS/Heal) queued as DPS at tick 85
+Player 365 (DPS) queued as DPS at tick 85
+Player 366 (DPS) queued as DPS at tick 85
+Player 367 (DPS/Tank) queued as Tank at tick 85
+Player 368 (DPS) queued as DPS at tick 85
+Instance started at 85 with 304, 362, 173, 174, 175
+Player 369 (DPS/Tank) queued as DPS at tick 86
+Player 370 (Tank) queued as Tank at tick 86
+Player 371 (Healer) queued as Healer at tick 86
+Player 372 (DPS) queued as DPS at tick 86
+Player 373 (DPS) queued as DPS at tick 86
+Player 374 (DPS/Heal) queued as Healer at tick 86
+Player 375 (DPS) queued as DPS at tick 86
+Instance started at 86 with 327, 371, 176, 177, 178
+Player 376 (DPS/Heal) queued as DPS at tick 87
+Player 377 (DPS/Heal) queued as DPS at tick 87
+Player 378 (DPS) queued as DPS at tick 87
+Player 379 (DPS/Heal) queued as DPS at tick 87
+Player 380 (DPS) queued as DPS at tick 87
+Player 381 (Tank) queued as Tank at tick 87
+Instance started at 87 with 328, 374, 179, 180, 181
+Player 382 (DPS) queued as DPS at tick 88
+Player 383 (DPS/Tank) queued as Tank at tick 88
+Player 384 (DPS) queued as DPS at tick 88
+Player 385 (Healer) queued as Healer at tick 88
+Player 386 (DPS) queued as DPS at tick 88
+Player 387 (Tank) queued as Tank at tick 88
+Player 388 (DPS/Heal) queued as DPS at tick 88
+Player 389 (DPS) queued as DPS at tick 88
+Instance started at 88 with 337, 385, 182, 183, 184
+Player 390 (Healer) queued as Healer at tick 89
+Player 391 (DPS/Heal) queued as DPS at tick 89
+Player 392 (DPS/Heal) queued as DPS at tick 89
+Player 393 (Tank) queued as Tank at tick 89
+Player 394 (DPS/Heal) queued as DPS at tick 89
+Player 395 (DPS) queued as DPS at tick 89
+Player 396 (DPS/Tank) queued as DPS at tick 89
+Player 397 (DPS/Heal) queued as DPS at tick 89
+Instance started at 89 with 340, 390, 185, 187, 188
+Player 398 (DPS) queued as DPS at tick 90
+Player 399 (DPS) queued as DPS at tick 90
+Player 400 (DPS) queued as DPS at tick 90
+Player 401 (Tank) queued as Tank at tick 90
+Player 402 (DPS/Heal) queued as DPS at tick 90
+Player 403 (DPS) queued as DPS at tick 90
+Player 404 (DPS/Heal) queued as Healer at tick 90
+Instance started at 90 with 347, 404, 189, 192, 193
+Player 405 (DPS/Tank) queued as Tank at tick 91
+Player 406 (DPS) queued as DPS at tick 91
+Player 407 (DPS) queued as DPS at tick 91
+Player 408 (DPS/Heal) queued as DPS at tick 91
+Player 409 (DPS/Tank) queued as DPS at tick 91
+Player 410 (DPS/Heal) queued as DPS at tick 92
+Player 411 (Healer) queued as Healer at tick 92
+Player 412 (DPS) queued as DPS at tick 92
+Player 413 (DPS) queued as DPS at tick 92
+Player 414 (Healer) queued as Healer at tick 92
+Player 415 (DPS) queued as DPS at tick 92
+Player 416 (DPS/Heal) queued as DPS at tick 92
+Instance started at 92 with 351, 411, 194, 197, 198
+Player 417 (Healer) queued as Healer at tick 93
+Player 418 (DPS) queued as DPS at tick 93
+Player 419 (DPS/Tank) queued as DPS at tick 93
+Player 420 (DPS/Tank) queued as Tank at tick 93
+Player 421 (DPS) queued as DPS at tick 93
+Player 422 (DPS/Heal) queued as DPS at tick 93
+Player 423 (Healer) queued as Healer at tick 93
+Instance started at 93 with 356, 414, 199, 200, 202
+Player 424 (DPS) queued as DPS at tick 94
+Player 425 (DPS) queued as DPS at tick 94
+Player 426 (Tank) queued as Tank at tick 94
+Player 427 (Tank) queued as Tank at tick 94
+Player 428 (DPS/Heal) queued as DPS at tick 94
+Player 429 (DPS/Heal) queued as Healer at tick 94
+Instance started at 94 with 359, 417, 203, 205, 206
+Player 430 (DPS) queued as DPS at tick 95
+Player 431 (DPS) queued as DPS at tick 95
+Player 432 (Tank) queued as Tank at tick 95
+Player 433 (DPS/Heal) queued as DPS at tick 95
+Instance started at 95 with 363, 423, 207, 209, 210
+Player 434 (DPS/Tank) queued as DPS at tick 96
+Player 435 (DPS) queued as DPS at tick 96
+Player 436 (DPS) queued as DPS at tick 96
+Player 437 (DPS/Tank) queued as DPS at tick 96
+Player 438 (DPS) queued as DPS at tick 96
+Player 439 (DPS/Tank) queued as DPS at tick 96
+Player 440 (DPS/Heal) queued as DPS at tick 96
+Instance started at 96 with 367, 429, 211, 213, 214
+Player 441 (DPS) queued as DPS at tick 97
+Player 442 (DPS/Heal) queued as DPS at tick 97
+Player 443 (DPS/Heal) queued as DPS at tick 98
+Player 444 (DPS/Tank) queued as DPS at tick 98
+Player 445 (Healer) queued as Healer at tick 99
+Player 446 (DPS/Tank) queued as DPS at tick 99
+Player 447 (DPS) queued as DPS at tick 99
+Player 448 (DPS) queued as DPS at tick 99
+Instance started at 99 with 370, 445, 215, 217, 219
+Player 449 (DPS/Heal) queued as DPS at tick 100
+Player 450 (Healer) queued as Healer at tick 100
+Player 451 (DPS) queued as DPS at tick 100
+Player 452 (DPS) queued as DPS at tick 100
+Instance started at 100 with 381, 450, 220, 222, 223
+Player 453 (DPS) queued as DPS at tick 101
+Player 454 (DPS/Heal) queued as DPS at tick 101
+Player 455 (Healer) queued as Healer at tick 101
+Player 456 (DPS/Heal) queued as DPS at tick 101
+Player 457 (DPS/Tank) queued as DPS at tick 101
+Player 458 (DPS) queued as DPS at tick 101
+Instance started at 101 with 383, 455, 224, 225, 226
+Player 459 (DPS) queued as DPS at tick 102
+Player 460 (Healer) queued as Healer at tick 102
+Player 461 (Tank) queued as Tank at tick 102
+Player 462 (Healer) queued as Healer at tick 102
+Player 463 (DPS/Heal) queued as Healer at tick 102
+Player 464 (DPS/Heal) queued as Healer at tick 102
+Player 465 (DPS/Heal) queued as DPS at tick 102
+Player 466 (Tank) queued as Tank at tick 102
+Instance started at 102 with 387, 460, 227, 228, 229
+Player 467 (DPS/Tank) queued as DPS at tick 103
+Player 468 (DPS) queued as DPS at tick 103
+Player 469 (DPS/Heal) queued as DPS at tick 103
+Player 470 (DPS/Heal) queued as DPS at tick 103
+Player 471 (DPS/Heal) queued as DPS at tick 103
+Player 472 (DPS/Tank) queued as DPS at tick 103
+Player 473 (DPS) queued as DPS at tick 103
+Instance started at 103 with 393, 462, 230, 231, 232
+Player 474 (Healer) queued as Healer at tick 104
+Player 475 (Healer) queued as Healer at tick 104
+Player 476 (Healer) queued as Healer at tick 104
+Player 477 (DPS/Heal) queued as Healer at tick 104
+Player 478 (DPS/Heal) queued as DPS at tick 104
+Player 479 (DPS/Heal) queued as Healer at tick 104
+Player 480 (DPS) queued as DPS at tick 104
+Player 481 (Tank) queued as Tank at tick 104
+Instance started at 104 with 401, 463, 235, 236, 238
+Player 482 (Healer) queued as Healer at tick 105
+Player 483 (DPS) queued as DPS at tick 105
+Instance started at 105 with 405, 464, 239, 242, 243
+Player 484 (DPS) queued as DPS at tick 106
+Player 485 (DPS/Heal) queued as Healer at tick 106
+Player 486 (Healer) queued as Healer at tick 106
+Player 487 (Tank) queued as Tank at tick 106
+Player 488 (DPS/Tank) queued as DPS at tick 106
+Player 489 (DPS) queued as DPS at tick 106
+Instance started at 106 with 420, 474, 245, 246, 247
+Player 490 (DPS) queued as DPS at tick 107
+Player 491 (DPS) queued as DPS at tick 107
+Instance started at 107 with 426, 475, 248, 250, 252
+Player 492 (DPS) queued as DPS at tick 108
+Player 493 (DPS/Tank) queued as DPS at tick 108
+Player 494 (DPS) queued as DPS at tick 108
+Player 495 (DPS/Heal) queued as DPS at tick 108
+Player 496 (DPS/Heal) queued as Healer at tick 108
+Player 497 (DPS) queued as DPS at tick 108
+Player 498 (DPS/Tank) queued as DPS at tick 108
+Player 499 (DPS) queued as DPS at tick 108
+Instance started at 108 with 427, 476, 253, 254, 255
+Player 500 (DPS) queued as DPS at tick 109
+Player 501 (DPS/Heal) queued as DPS at tick 109
+Player 502 (Healer) queued as Healer at tick 109
+Player 503 (Healer) queued as Healer at tick 109
+Player 504 (DPS/Tank) queued as Tank at tick 109
+Player 505 (DPS/Tank) queued as DPS at tick 109
+Instance started at 109 with 432, 477, 257, 260, 262
+Player 506 (DPS) queued as DPS at tick 110
+Player 507 (DPS) queued as DPS at tick 110
+Player 508 (DPS/Heal) queued as DPS at tick 110
+Player 509 (DPS) queued as DPS at tick 110
+Player 510 (DPS/Heal) queued as DPS at tick 110
+Player 511 (DPS/Tank) queued as DPS at tick 110
+Player 512 (Tank) queued as Tank at tick 110
+Instance started at 110 with 461, 479, 263, 265, 266
+Player 513 (DPS) queued as DPS at tick 111
+Player 514 (DPS/Tank) queued as DPS at tick 111
+Player 515 (Healer) queued as Healer at tick 111
+Player 516 (DPS) queued as DPS at tick 111
+Player 517 (DPS/Tank) queued as DPS at tick 111
+Instance started at 111 with 466, 482, 267, 268, 269
+Player 518 (Healer) queued as Healer at tick 112
+Player 519 (DPS/Tank) queued as DPS at tick 112
+Player 520 (DPS) queued as DPS at tick 112
+Player 521 (DPS/Tank) queued as DPS at tick 112
+Player 522 (DPS) queued as DPS at tick 112
+Player 523 (DPS/Tank) queued as DPS at tick 112
+Player 524 (Tank) queued as Tank at tick 112
+Instance started at 112 with 481, 485, 270, 271, 272
+Player 525 (DPS) queued as DPS at tick 113
+Player 526 (DPS/Heal) queued as Healer at tick 113
+Player 527 (Tank) queued as Tank at tick 113
+Player 528 (DPS/Heal) queued as DPS at tick 113
+Player 529 (DPS/Heal) queued as Healer at tick 113
+Player 530 (DPS/Tank) queued as DPS at tick 113
+Instance started at 113 with 487, 486, 273, 274, 276
+Player 531 (DPS) queued as DPS at tick 114
+Player 532 (DPS/Tank) queued as DPS at tick 114
+Player 533 (DPS) queued as DPS at tick 114
+Instance started at 114 with 504, 496, 277, 278, 279
+Player 534 (DPS) queued as DPS at tick 115
+Player 535 (DPS) queued as DPS at tick 115
+Player 536 (Healer) queued as Healer at tick 115
+Player 537 (DPS/Tank) queued as DPS at tick 115
+Instance started at 115 with 512, 502, 280, 281, 282
+Player 538 (DPS/Tank) queued as DPS at tick 116
+Instance started at 116 with 524, 503, 283, 284, 285
+Player 539 (DPS/Tank) queued as Tank at tick 117
+Player 540 (DPS) queued as DPS at tick 117
+Player 541 (DPS) queued as DPS at tick 117
+Player 542 (Healer) queued as Healer at tick 117
+Player 543 (DPS) queued as DPS at tick 117
+Player 544 (DPS) queued as DPS at tick 117
+Player 545 (DPS) queued as DPS at tick 117
+Instance started at 117 with 527, 515, 288, 289, 290
+Player 546 (DPS/Tank) queued as DPS at tick 118
+Player 547 (Healer) queued as Healer at tick 118
+Player 548 (Healer) queued as Healer at tick 118
+Instance started at 118 with 539, 518, 291, 295, 296
+Player 549 (DPS/Heal) queued as DPS at tick 119
+Player 550 (DPS) queued as DPS at tick 119
+Player 551 (DPS) queued as DPS at tick 119
+Player 552 (DPS/Tank) queued as DPS at tick 119
+Player 553 (DPS) queued as DPS at tick 119
+Player 554 (DPS/Heal) queued as Healer at tick 120
+Player 555 (DPS/Heal) queued as DPS at tick 121
+Player 556 (Tank) queued as Tank at tick 121
+Player 557 (DPS/Heal) queued as DPS at tick 121
+Instance started at 121 with 556, 526, 297, 298, 299
+Player 558 (Tank) queued as Tank at tick 122
+Player 559 (DPS) queued as DPS at tick 122
+Player 560 (DPS/Heal) queued as DPS at tick 122
+Player 561 (DPS/Tank) queued as DPS at tick 122
+Instance started at 122 with 558, 529, 302, 303, 305
+Player 562 (DPS/Heal) queued as DPS at tick 123
+Player 563 (DPS/Heal) queued as DPS at tick 123
+Player 564 (Healer) queued as Healer at tick 124
+Player 565 (DPS/Heal) queued as Healer at tick 124
+Player 566 (DPS/Tank) queued as DPS at tick 124
+Player 567 (DPS) queued as DPS at tick 124
+Player 568 (DPS) queued as DPS at tick 125
+Player 569 (DPS) queued as DPS at tick 125
+Player 570 (DPS/Tank) queued as DPS at tick 126
+Player 571 (DPS/Heal) queued as DPS at tick 126
+Player 572 (DPS/Heal) queued as DPS at tick 126
+Player 573 (DPS/Tank) queued as DPS at tick 127
+Player 574 (DPS/Heal) queued as DPS at tick 127
+Player 575 (Healer) queued as Healer at tick 127
+Player 576 (Healer) queued as Healer at tick 127
+Player 577 (DPS/Tank) queued as DPS at tick 127
+Player 578 (DPS) queued as DPS at tick 127
+Player 579 (DPS) queued as DPS at tick 128
+Player 580 (Healer) queued as Healer at tick 128
+Player 581 (DPS/Tank) queued as DPS at tick 128
+Player 582 (Tank) queued as Tank at tick 128
+Instance started at 128 with 582, 536, 306, 307, 309
+Player 583 (DPS/Heal) queued as DPS at tick 129
+Player 584 (Tank) queued as Tank at tick 130
+Player 585 (DPS/Heal) queued as DPS at tick 130
+Player 586 (Tank) queued as Tank at tick 130
+Player 587 (DPS/Heal) queued as DPS at tick 130
+Instance started at 130 with 584, 542, 310, 311, 312
+Player 588 (DPS/Heal) queued as DPS at tick 131
+Player 589 (DPS) queued as DPS at tick 131
+Instance started at 131 with 586, 547, 313, 314, 315
+Player 590 (DPS/Tank) queued as DPS at tick 132
+Player 591 (DPS/Tank) queued as Tank at tick 132
+Player 592 (Tank) queued as Tank at tick 132
+Player 593 (DPS) queued as DPS at tick 132
+Player 594 (DPS/Heal) queued as DPS at tick 132
+Player 595 (DPS/Tank) queued as Tank at tick 132
+Player 596 (DPS) queued as DPS at tick 132
+Player 597 (Healer) queued as Healer at tick 132
+Instance started at 132 with 591, 548, 317, 318, 319
+Player 598 (DPS/Heal) queued as DPS at tick 133
+Instance started at 133 with 592, 554, 320, 321, 322
+Player 599 (DPS) queued as DPS at tick 134
+Player 600 (DPS) queued as DPS at tick 134
+Player 601 (DPS/Heal) queued as DPS at tick 134
+Player 602 (DPS/Heal) queued as Healer at tick 134
+Instance started at 134 with 595, 564, 323, 324, 326
+Player 603 (Healer) queued as Healer at tick 135
+Player 604 (DPS/Heal) queued as DPS at tick 135
+Player 605 (DPS) queued as DPS at tick 135
+Player 606 (DPS/Tank) queued as DPS at tick 135
+Player 607 (DPS) queued as DPS at tick 136
+Player 608 (DPS/Heal) queued as DPS at tick 136
+Player 609 (Healer) queued as Healer at tick 136
+Player 610 (DPS/Heal) queued as DPS at tick 137
+Player 611 (DPS/Tank) queued as Tank at tick 137
+Player 612 (DPS) queued as DPS at tick 137
+Player 613 (DPS/Heal) queued as Healer at tick 137
+Instance started at 137 with 611, 565, 329, 330, 331
+Player 614 (DPS/Tank) queued as DPS at tick 138
+Player 615 (Healer) queued as Healer at tick 138
+Player 616 (DPS/Tank) queued as DPS at tick 138
+Player 617 (DPS/Heal) queued as Healer at tick 138
+Player 618 (Tank) queued as Tank at tick 138
+Player 619 (DPS) queued as DPS at tick 138
+Player 620 (DPS) queued as DPS at tick 138
+Player 621 (DPS) queued as DPS at tick 138
+Instance started at 138 with 618, 575, 332, 333, 334
+Player 622 (DPS/Tank) queued as Tank at tick 139
+Player 623 (DPS) queued as DPS at tick 139
+Player 624 (DPS/Tank) queued as DPS at tick 139
+Player 625 (DPS/Tank) queued as DPS at tick 139
+Player 626 (DPS) queued as DPS at tick 139
+Player 627 (DPS) queued as DPS at tick 139
+Player 628 (Healer) queued as Healer at tick 139
+Instance started at 139 with 622, 576, 335, 336, 338
+Player 629 (DPS/Heal) queued as DPS at tick 140
+Player 630 (Healer) queued as Healer at tick 140
+Player 631 (DPS/Tank) queued as DPS at tick 140
+Player 632 (DPS) queued as DPS at tick 140
+Player 633 (Healer) queued as Healer at tick 140
+Player 634 (Healer) queued as Healer at tick 140
+Player 635 (DPS) queued as DPS at tick 141
+Player 636 (DPS/Heal) queued as DPS at tick 141
+Player 637 (DPS) queued as DPS at tick 141
+Player 638 (DPS/Tank) queued as DPS at tick 141
+Player 639 (DPS) queued as DPS at tick 141
+Player 640 (DPS) queued as DPS at tick 142
+Player 641 (DPS/Heal) queued as DPS at tick 142
+Player 642 (DPS) queued as DPS at tick 142
+Player 643 (DPS) queued as DPS at tick 143
+Player 644 (DPS) queued as DPS at tick 143
+Player 645 (DPS) queued as DPS at tick 143
+Player 646 (DPS) queued as DPS at tick 143
+Player 647 (DPS/Tank) queued as DPS at tick 143
+Player 648 (Healer) queued as Healer at tick 143
+Player 649 (DPS) queued as DPS at tick 144
+Player 650 (DPS) queued as DPS at tick 144
+Player 651 (Tank) queued as Tank at tick 144
+Player 652 (DPS) queued as DPS at tick 144
+Player 653 (DPS/Tank) queued as Tank at tick 144
+Player 654 (DPS/Tank) queued as Tank at tick 144
+Player 655 (DPS) queued as DPS at tick 144
+Instance started at 144 with 651, 580, 339, 341, 342
+Player 656 (DPS) queued as DPS at tick 145
+Player 657 (DPS/Tank) queued as DPS at tick 145
+Player 658 (Tank) queued as Tank at tick 145
+Player 659 (Healer) queued as Healer at tick 145
+Player 660 (DPS) queued as DPS at tick 145
+Instance started at 145 with 653, 597, 343, 344, 345
+Player 661 (DPS/Tank) queued as DPS at tick 146
+Player 662 (DPS) queued as DPS at tick 146
+Player 663 (DPS) queued as DPS at tick 146
+Player 664 (DPS/Heal) queued as DPS at tick 146
+Instance started at 146 with 654, 602, 346, 348, 349
+Player 665 (DPS/Heal) queued as Healer at tick 147
+Player 666 (DPS) queued as DPS at tick 147
+Player 667 (DPS) queued as DPS at tick 147
+Player 668 (DPS/Heal) queued as DPS at tick 147
+Player 669 (DPS) queued as DPS at tick 147
+Player 670 (DPS) queued as DPS at tick 147
+Player 671 (DPS/Tank) queued as DPS at tick 147
+Instance started at 147 with 658, 603, 350, 354, 355
+Player 672 (DPS) queued as DPS at tick 148
+Player 673 (Tank) queued as Tank at tick 148
+Player 674 (DPS) queued as DPS at tick 148
+Player 675 (DPS/Heal) queued as DPS at tick 148
+Player 676 (DPS) queued as DPS at tick 148
+Player 677 (DPS) queued as DPS at tick 148
+Player 678 (DPS) queued as DPS at tick 148
+Player 679 (Healer) queued as Healer at tick 148
+Instance started at 148 with 673, 609, 357, 358, 360
+Player 680 (Tank) queued as Tank at tick 149
+Player 681 (DPS/Tank) queued as Tank at tick 149
+Player 682 (DPS/Heal) queued as DPS at tick 149
+Instance started at 149 with 680, 613, 361, 364, 365
+Player 683 (DPS) queued as DPS at tick 150
+Player 684 (DPS) queued as DPS at tick 150
+Player 685 (DPS/Heal) queued as DPS at tick 150
+Player 686 (DPS) queued as DPS at tick 150
+Player 687 (DPS/Heal) queued as DPS at tick 150
+Player 688 (DPS) queued as DPS at tick 150
+Instance started at 150 with 681, 615, 366, 368, 369
+Player 689 (DPS) queued as DPS at tick 151
+Player 690 (DPS/Tank) queued as Tank at tick 151
+Player 691 (DPS/Tank) queued as DPS at tick 151
+Player 692 (DPS/Tank) queued as Tank at tick 151
+Instance started at 151 with 690, 617, 372, 373, 375
+Player 693 (DPS) queued as DPS at tick 152
+Player 694 (DPS) queued as DPS at tick 152
+Player 695 (DPS) queued as DPS at tick 152
+Instance started at 152 with 692, 628, 376, 377, 378
+Player 696 (DPS) queued as DPS at tick 153
+Player 697 (Tank) queued as Tank at tick 153
+Instance started at 153 with 697, 630, 379, 380, 382
+Player 698 (DPS/Heal) queued as DPS at tick 154
+Player 699 (DPS/Heal) queued as DPS at tick 155
+Player 700 (DPS/Heal) queued as Healer at tick 155
+Player 701 (DPS) queued as DPS at tick 155
+Player 702 (Healer) queued as Healer at tick 155
+Player 703 (DPS) queued as DPS at tick 155
+Player 704 (DPS) queued as DPS at tick 155
+Player 705 (DPS/Tank) queued as DPS at tick 155
+Player 706 (DPS/Heal) queued as DPS at tick 156
+Player 707 (Healer) queued as Healer at tick 156
+Player 708 (DPS/Tank) queued as DPS at tick 156
+Player 709 (Healer) queued as Healer at tick 156
+Player 710 (DPS/Heal) queued as Healer at tick 156
+Player 711 (Tank) queued as Tank at tick 156
+Instance started at 156 with 711, 633, 384, 386, 388
+Player 712 (DPS) queued as DPS at tick 157
+Player 713 (DPS/Tank) queued as DPS at tick 157
+Player 714 (DPS/Tank) queued as DPS at tick 157
+Player 715 (DPS) queued as DPS at tick 157
+Player 716 (Healer) queued as Healer at tick 157
+Player 717 (DPS/Heal) queued as DPS at tick 157
+Player 718 (DPS/Heal) queued as DPS at tick 158
+Player 719 (DPS) queued as DPS at tick 159
+Player 720 (DPS) queued as DPS at tick 159
+Player 721 (Tank) queued as Tank at tick 160
+Player 722 (DPS/Heal) queued as DPS at tick 160
+Player 723 (Healer) queued as Healer at tick 160
+Instance started at 160 with 721, 634, 389, 391, 392
+Player 724 (DPS) queued as DPS at tick 161
+Player 725 (DPS/Tank) queued as Tank at tick 161
+Player 726 (Healer) queued as Healer at tick 161
+Player 727 (Tank) queued as Tank at tick 161
+Player 728 (Healer) queued as Healer at tick 161
+Instance started at 161 with 725, 648, 394, 395, 396
+Player 729 (DPS/Heal) queued as Healer at tick 162
+Player 730 (DPS/Heal) queued as DPS at tick 162
+Player 731 (DPS) queued as DPS at tick 162
+Player 732 (DPS) queued as DPS at tick 162
+Instance started at 162 with 727, 659, 397, 398, 399
+Player 733 (DPS/Tank) queued as Tank at tick 163
+Player 734 (DPS) queued as DPS at tick 163
+Player 735 (DPS) queued as DPS at tick 163
+Player 736 (DPS/Tank) queued as Tank at tick 163
+Player 737 (DPS) queued as DPS at tick 163
+Instance started at 163 with 733, 665, 400, 402, 403
+Player 738 (DPS) queued as DPS at tick 164
+Instance started at 164 with 736, 679, 406, 407, 408
+Player 739 (DPS) queued as DPS at tick 165
+Player 740 (DPS/Heal) queued as Healer at tick 165
+Player 741 (DPS/Tank) queued as DPS at tick 165
+Player 742 (Healer) queued as Healer at tick 165
+Player 743 (Healer) queued as Healer at tick 166
+Player 744 (Healer) queued as Healer at tick 166
+Player 745 (DPS) queued as DPS at tick 166
+Player 746 (Healer) queued as Healer at tick 166
+Player 747 (Tank) queued as Tank at tick 166
+Player 748 (DPS) queued as DPS at tick 166
+Player 749 (DPS/Heal) queued as DPS at tick 166
+Instance started at 166 with 747, 700, 409, 410, 412
+Player 750 (DPS) queued as DPS at tick 167
+Player 751 (DPS) queued as DPS at tick 167
+Player 752 (Healer) queued as Healer at tick 167
+Player 753 (DPS) queued as DPS at tick 167
+Player 754 (Healer) queued as Healer at tick 168
+Player 755 (DPS) queued as DPS at tick 168
+Player 756 (DPS/Heal) queued as DPS at tick 169
+Player 757 (DPS) queued as DPS at tick 169
+Player 758 (Tank) queued as Tank at tick 169
+Player 759 (DPS) queued as DPS at tick 169
+Player 760 (DPS) queued as DPS at tick 169
+Instance started at 169 with 758, 702, 413, 415, 416
+Player 761 (Healer) queued as Healer at tick 170
+Player 762 (DPS) queued as DPS at tick 170
+Player 763 (DPS) queued as DPS at tick 170
+Player 764 (Tank) queued as Tank at tick 171
+Player 765 (DPS) queued as DPS at tick 171
+Instance started at 171 with 764, 707, 418, 419, 421
+Player 766 (DPS/Heal) queued as Healer at tick 172
+Player 767 (DPS) queued as DPS at tick 172
+Player 768 (Healer) queued as Healer at tick 172
+Player 769 (DPS) queued as DPS at tick 172
+Player 770 (DPS) queued as DPS at tick 172
+Player 771 (DPS) queued as DPS at tick 173
+Player 772 (DPS/Tank) queued as DPS at tick 173
+Player 773 (DPS) queued as DPS at tick 173
+Player 774 (DPS/Tank) queued as DPS at tick 173
+Player 775 (DPS) queued as DPS at tick 174
+Player 776 (DPS) queued as DPS at tick 174
+Player 777 (DPS) queued as DPS at tick 174
+Player 778 (DPS) queued as DPS at tick 174
+Player 779 (DPS) queued as DPS at tick 174
+Player 780 (Tank) queued as Tank at tick 174
+Player 781 (DPS/Heal) queued as DPS at tick 174
+Instance started at 174 with 780, 709, 422, 424, 425
+Player 782 (DPS) queued as DPS at tick 175
+Player 783 (Healer) queued as Healer at tick 175
+Player 784 (Tank) queued as Tank at tick 175
+Instance started at 175 with 784, 710, 428, 430, 431
+Player 785 (DPS/Tank) queued as Tank at tick 176
+Player 786 (DPS) queued as DPS at tick 176
+Player 787 (DPS) queued as DPS at tick 176
+Player 788 (DPS) queued as DPS at tick 176
+Player 789 (DPS) queued as DPS at tick 176
+Player 790 (DPS/Heal) queued as DPS at tick 176
+Player 791 (Tank) queued as Tank at tick 176
+Instance started at 176 with 785, 716, 433, 434, 435
+Player 792 (DPS) queued as DPS at tick 177
+Player 793 (Healer) queued as Healer at tick 177
+Player 794 (Tank) queued as Tank at tick 177
+Player 795 (Healer) queued as Healer at tick 177
+Player 796 (DPS) queued as DPS at tick 177
+Player 797 (DPS) queued as DPS at tick 177
+Player 798 (DPS/Tank) queued as DPS at tick 177
+Player 799 (DPS) queued as DPS at tick 177
+Instance started at 177 with 791, 723, 436, 437, 438
+Player 800 (DPS) queued as DPS at tick 178
+Player 801 (DPS/Heal) queued as DPS at tick 178
+Player 802 (Healer) queued as Healer at tick 178
+Player 803 (DPS) queued as DPS at tick 178
+Player 804 (DPS) queued as DPS at tick 178
+Player 805 (DPS) queued as DPS at tick 178
+Player 806 (DPS/Heal) queued as DPS at tick 178
+Player 807 (Healer) queued as Healer at tick 178
+Instance started at 178 with 794, 726, 439, 440, 441
+Player 808 (DPS) queued as DPS at tick 179
+Player 809 (DPS/Heal) queued as Healer at tick 179
+Player 810 (DPS) queued as DPS at tick 179
+Player 811 (Tank) queued as Tank at tick 179
+Instance started at 179 with 811, 728, 442, 443, 444
+Player 812 (Tank) queued as Tank at tick 180
+Player 813 (DPS) queued as DPS at tick 180
+Player 814 (DPS/Tank) queued as DPS at tick 180
+Player 815 (DPS) queued as DPS at tick 180
+Player 816 (DPS/Heal) queued as DPS at tick 180
+Player 817 (DPS) queued as DPS at tick 180
+Instance started at 180 with 812, 729, 446, 447, 448
+Player 818 (DPS) queued as DPS at tick 181
+Player 819 (DPS) queued as DPS at tick 181
+Player 820 (DPS/Tank) queued as DPS at tick 181
+Player 821 (DPS/Heal) queued as DPS at tick 181
+Player 822 (Healer) queued as Healer at tick 181
+Player 823 (DPS) queued as DPS at tick 181
+Player 824 (DPS) queued as DPS at tick 181
+Player 825 (DPS) queued as DPS at tick 182
+Player 826 (DPS) queued as DPS at tick 182
+Player 827 (DPS) queued as DPS at tick 182
+Player 828 (DPS) queued as DPS at tick 182
+Player 829 (Tank) queued as Tank at tick 182
+Player 830 (DPS) queued as DPS at tick 182
+Instance started at 182 with 829, 740, 449, 451, 452
+Player 831 (DPS/Heal) queued as DPS at tick 183
+Player 832 (DPS) queued as DPS at tick 183
+Player 833 (DPS/Tank) queued as DPS at tick 183
+Player 834 (DPS/Tank) queued as DPS at tick 184
+Player 835 (DPS) queued as DPS at tick 185
+Player 836 (DPS/Heal) queued as DPS at tick 185
+Player 837 (DPS) queued as DPS at tick 185
+Player 838 (DPS) queued as DPS at tick 185
+Player 839 (DPS) queued as DPS at tick 185
+Player 840 (DPS) queued as DPS at tick 186
+Player 841 (DPS/Tank) queued as DPS at tick 186
+Player 842 (DPS) queued as DPS at tick 186
+Player 843 (DPS) queued as DPS at tick 186
+Player 844 (Tank) queued as Tank at tick 186
+Player 845 (DPS/Heal) queued as DPS at tick 186
+Instance started at 186 with 844, 742, 453, 454, 456
+Player 846 (DPS/Tank) queued as Tank at tick 187
+Player 847 (DPS) queued as DPS at tick 187
+Player 848 (DPS) queued as DPS at tick 187
+Player 849 (DPS) queued as DPS at tick 187
+Player 850 (DPS) queued as DPS at tick 187
+Player 851 (DPS) queued as DPS at tick 187
+Player 852 (DPS/Tank) queued as DPS at tick 187
+Player 853 (DPS) queued as DPS at tick 187
+Instance started at 187 with 846, 743, 457, 458, 459
+Player 854 (DPS) queued as DPS at tick 188
+Player 855 (DPS) queued as DPS at tick 188
+Player 856 (DPS) queued as DPS at tick 188
+Player 857 (DPS) queued as DPS at tick 188
+Player 858 (DPS/Heal) queued as DPS at tick 189
+Player 859 (DPS/Tank) queued as Tank at tick 189
+Player 860 (Tank) queued as Tank at tick 189
+Instance started at 189 with 859, 744, 465, 467, 468
+Player 861 (DPS) queued as DPS at tick 190
+Player 862 (DPS) queued as DPS at tick 190
+Player 863 (Tank) queued as Tank at tick 190
+Player 864 (Healer) queued as Healer at tick 190
+Player 865 (DPS) queued as DPS at tick 190
+Player 866 (DPS/Heal) queued as DPS at tick 190
+Player 867 (DPS) queued as DPS at tick 190
+Player 868 (Healer) queued as Healer at tick 190
+Instance started at 190 with 860, 746, 469, 470, 471
+Player 869 (Tank) queued as Tank at tick 191
+Player 870 (DPS/Heal) queued as DPS at tick 191
+Player 871 (Healer) queued as Healer at tick 191
+Player 872 (DPS) queued as DPS at tick 191
+Instance started at 191 with 863, 752, 472, 473, 478
+Player 873 (DPS/Tank) queued as DPS at tick 192
+Player 874 (DPS) queued as DPS at tick 192
+Player 875 (Tank) queued as Tank at tick 192
+Player 876 (DPS/Tank) queued as DPS at tick 192
+Player 877 (DPS) queued as DPS at tick 192
+Player 878 (DPS) queued as DPS at tick 192
+Instance started at 192 with 869, 754, 480, 483, 484
+Player 879 (DPS) queued as DPS at tick 193
+Player 880 (Healer) queued as Healer at tick 193
+Player 881 (Tank) queued as Tank at tick 193
+Player 882 (Tank) queued as Tank at tick 193
+Player 883 (DPS) queued as DPS at tick 193
+Player 884 (DPS/Tank) queued as DPS at tick 193
+Player 885 (DPS/Heal) queued as DPS at tick 193
+Instance started at 193 with 875, 761, 488, 489, 490
+Player 886 (DPS) queued as DPS at tick 194
+Player 887 (DPS) queued as DPS at tick 194
+Player 888 (DPS) queued as DPS at tick 194
+Instance started at 194 with 881, 766, 491, 492, 493
+Player 889 (DPS) queued as DPS at tick 195
+Player 890 (DPS/Tank) queued as Tank at tick 195
+Player 891 (DPS) queued as DPS at tick 195
+Player 892 (DPS/Tank) queued as Tank at tick 195
+Instance started at 195 with 882, 768, 494, 495, 497
+Player 893 (DPS) queued as DPS at tick 196
+Player 894 (DPS) queued as DPS at tick 196
+Player 895 (DPS/Heal) queued as DPS at tick 196
+Player 896 (Healer) queued as Healer at tick 196
+Instance started at 196 with 890, 783, 498, 499, 500
+Player 897 (Healer) queued as Healer at tick 197
+Player 898 (Healer) queued as Healer at tick 197
+Instance started at 197 with 892, 793, 501, 505, 506
+Player 899 (DPS/Heal) queued as DPS at tick 198
+Player 900 (DPS/Heal) queued as Healer at tick 198
+Player 901 (DPS/Heal) queued as Healer at tick 198
+Player 902 (Tank) queued as Tank at tick 198
+Instance started at 198 with 902, 795, 507, 508, 509
+Player 903 (DPS/Heal) queued as DPS at tick 199
+Player 904 (DPS) queued as DPS at tick 199
+Player 905 (DPS/Heal) queued as DPS at tick 199
+Player 906 (Tank) queued as Tank at tick 199
+Player 907 (Healer) queued as Healer at tick 199
+Player 908 (DPS/Heal) queued as DPS at tick 199
+Player 909 (DPS/Heal) queued as DPS at tick 199
+Instance started at 199 with 906, 802, 510, 511, 513
+Player 910 (Healer) queued as Healer at tick 200
+
+Instances started: 124
+
+Statistics for Players Who Started Instances
+
+DPS: 280	89	49.2
+Tanks: 12	16	3.7
+Healers: 17	24	7.9
+
+All Players Average Wait Time: 31.8
+
+Statistics for Players Remaining in Queue
+
+DPS: 276	90	44.2
+Tanks: 0	0	NaN
+Healers: 14	23	9.1
